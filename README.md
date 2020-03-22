@@ -1,3 +1,4 @@
+```java
 # Puzzle
 package Puzzle.java;
 
@@ -224,3 +225,4 @@ public static void main(String [] args)
 }
 
    
+```
